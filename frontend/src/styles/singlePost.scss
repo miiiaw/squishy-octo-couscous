@@ -1,0 +1,31 @@
+body {
+  #container {
+    main {
+      .singlePost {
+        margin: 0px;
+        width: 60%;
+        padding: 10px;
+        header {
+          margin: 0px;
+          padding: 0px;
+          background-color: #fff;
+          h1 {
+            margin-bottom: 5px;
+            padding: 0px;
+            font-family: "Indie Flower", serif;
+            font-size: 2rem;
+          }
+          img {
+            width: 100%;
+            height: auto;
+            border-radius: 6px;
+          }
+          span {
+            font-size: 0.9rem;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+}
